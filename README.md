@@ -3,7 +3,7 @@ RED BUS PROJECT
 
 This project contains the following components:
 
-- **Streamlit Application** (`app.py`): A web application to display bus schedules.
+- **Streamlit Application** (`aapp.py`): A web application to display bus schedules.
 - **Web Scraping Script** (`selenium.py`): A script to scrape bus schedule data.
 - **SQL Interaction Script** (`sql.py`): A script to interact with the MySQL database.
 
