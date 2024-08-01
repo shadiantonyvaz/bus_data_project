@@ -8,8 +8,8 @@ This project contains the following components:
 - **SQL Interaction Script** (`sql.py`): A script to interact with the MySQL database.
 
 Screen Recording of the Application:
--Screen Recording : https://drive.google.com/file/d/1z_AS3FnNbVHzrpmkiMZnVeYmUkiTu-aD/view?usp=sharing
-- [Screen Recording](https://drive.google.com/file/d/1wiYZIYjQdQozNAjyZLvLb5-nL9sQ-mS1/view?usp=sharing)
+- [Screen Recording](https://drive.google.com/file/d/1z_AS3FnNbVHzrpmkiMZnVeYmUkiTu-aD/view?usp=sharing)
+
 
 Bus Schedule Data (`all_combined_bus_data.csv`):
 
