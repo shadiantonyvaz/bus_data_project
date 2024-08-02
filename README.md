@@ -17,5 +17,5 @@ Bus Schedule Data (`all_combined_bus_data.csv`):
 
 Streamlit Application URLs:
 
-- Local URL: [http://localhost:8501](http://localhost:8501)
-- Network URL: [http://192.168.1.2:8501](http://192.168.1.2:8501)
+- Local URL: [http://localhost:8501](http://localhost:8508)
+- Network URL: [http://192.168.1.2:8501](http://192.168.1.2:8508)
